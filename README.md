@@ -4,3 +4,4 @@ use     docker ps -a to check status of container (should be e.g "up for 4 secon
 
 Run a db visualiser and connect to localhost:5432 using the username and password you entered.
 
+ 
